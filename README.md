@@ -6,26 +6,24 @@ This is my **personal portfolio website** showcasing my skills, projects, and ex
 👉 **[View Deployed Website](https://enchanting-custard-dabc8f.netlify.app/)**
 
 ## 📂 Project Structure
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js (if applicable)
-- **Database:** MySQL (if applicable)
+- HTML, CSS, JavaScript  
 
 ## 📌 Features
 ✅ Fully responsive design  
 ✅ Dark mode toggle  
 ✅ Interactive projects section  
-✅ Embedded contact form  
+✅ Embedded Google contact form  
+✅ Smooth animations  
 
 ## 🚀 Deployment
-This project is deployed using **GitHub Pages**. Follow these steps to deploy:
-1. Push your project to GitHub.
-2. Go to your repository **Settings** → **Pages**.
-3. Select `main` branch and `/root` directory.
-4. Click **Save**, and your site will be live!
+This project is deployed using **Netlify**.  
+
+### Steps to Deploy on Netlify:
+1. Sign in to **[Netlify](https://www.netlify.com/)**.  
+2. Click **"New site from Git"**.  
+3. Select your GitHub repository.  
+4. Click **Deploy Site**, and Netlify will handle the rest!  
 
 ## 📁 Installation & Setup
-Clone this repository and open the project in your browser.
-```sh
-git clone https://github.com/yourgithubusername/portfolio-website.git
-cd portfolio-website
-open index.html
+Contact Us through visiting this link:
+👉 **[View Deployed Website](https://enchanting-custard-dabc8f.netlify.app/)**
