@@ -3,7 +3,7 @@
 This is my **personal portfolio website** showcasing my skills, projects, and experience in web development.
 
 ## 🔗 Live Demo
-👉 **[View Deployed Website](https://blessingjohn.github.io/portfolio-website/)**
+👉 **[View Deployed Website](https://enchanting-custard-dabc8f.netlify.app/)**
 
 ## 📂 Project Structure
 - **Frontend:** HTML, CSS, JavaScript
